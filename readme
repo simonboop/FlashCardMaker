@@ -1,0 +1,15 @@
+Flash Card Maker:
+
+Need:
+Its surprisingly hard to find a good flash card maker. Most good ones are paid services. This will help address efficient flash card making. 
+
+Minimum Scope:
+With a GUI a user inputs a question and an answer for x amount of times. PDF files of front and back of the cards are generated.
+
+Stretch Goals:
+Database to hold previously made cards.
+Card design templates.
+Ability to create a audio tracks from a list of flash cards. That asks question waits and then give an answer.
+
+Status:
+In dev
